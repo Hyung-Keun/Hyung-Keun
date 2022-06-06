@@ -1,7 +1,7 @@
 <div align=center>
 <!--소개-->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=889A34&height=175&section=header&text=HELLO, I AM KEUN!&fontSize=70&fontColor=FDEEBE" />
-    <h3 align="center">🐵A FRONT-END DEVELOPER🙈 
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=889A34&height=175&section=header&text=HELLO👋🏻, I AM KEUN!🐝&fontSize=70&fontColor=FDEEBE" />
+    <h3 align="center">🐵FRONT-END DEVELOPER🙈 
         <br>
          <br>
         <a href="https://velog.io/@bright_root" target="_blank">
